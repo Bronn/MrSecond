@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<srv_req>
+<gw_status get_status="1"/>
+</srv_req>

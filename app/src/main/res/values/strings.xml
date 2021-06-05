@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Чекер для шлюза MINI T400</string>
+    <string name="xa1">Запрос зелсписка </string>
+    <string name="text_unknown">Непонятно!</string>
+</resources>
